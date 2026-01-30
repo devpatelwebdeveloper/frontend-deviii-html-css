@@ -1,4 +1,6 @@
-[Sandbox Clone](https://codesandbox.io/p/github/devpatelwebdeveloper/frontend-deviii-html-css/main?import=true)
+[Sandbox Clone](https://codesandbox.io/p/sandbox/github/devpatelwebdeveloper/frontend-deviii-html-css)
+
+https://codesandbox.io/p/sandbox/github/devpatelwebdeveloper/frontend-deviii-html-css
 
 ## Task1: Override using CSS
 
