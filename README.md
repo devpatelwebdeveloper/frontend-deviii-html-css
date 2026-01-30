@@ -31,3 +31,47 @@ Output: [100, 200] or [200, 100]
 Input: nums = [2, 3, 5, 7, 11, 13, 17, 19], target = 30
 Output: [13, 17] or [17, 13]
 ```
+
+## Task 3: Build an Image Carousel Component
+
+Create a functional image carousel component. You may use the following image URLs for data:
+
+```
+const urls = [
+"https://images.pexels.com/photos/269255/pexels-photo-269255.jpeg",
+"https://images.pexels.com/photos/355235/pexels-photo-355235.jpeg",
+"https://images.pexels.com/photos/416179/pexels-photo-416179.jpeg"
+]
+```
+
+**Reference Material:**
+
+## Task 3A: CSS Variables & Component Design
+
+Create a Button component that matches the design in the image below.
+
+- **Requirement:** You must define and use semantic CSS Variables (Custom Properties) for your color palette.
+
+# Bonus
+
+## Task 4 - Responsive Card Component
+
+Build a Card component based on the design provided.
+
+[Figma Design](https://www.figma.com/board/YmNtQbluH9qyKrKEgBW12n/Tiles-Example?node-id=0-1&t=lZvhMIyz8dtqNo5a-1)
+
+**Requirements:**
+
+- Responsiveness: On viewports smaller than 500px, the cards must stack vertically.
+- Interaction: Add a hover animation of your choice to the tiles.
+
+### Reference: Color Palette
+
+```
+Hex:
+Green:      #5BEF76
+Blue:       #0D333F
+Light Blue: #EAF6F7
+White:      #FFFFFF
+Black:      #000000
+```
