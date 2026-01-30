@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML + CSS</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+      /* Code goes here */
+    </style>
+    <!-- <style>
+      .price-box {
+        display: flex;
+        flex-direction: column;
+      }
+      .save-tag {
+        order: 3;
+      }
+      .price-row {
+        order: 2;
+      }
+      .subtext {
+        order: 1;
+        padding-bottom: 10px;
+        text-decoration: line-through;
+      }
+      .subtext > span:nth-of-type(1) {
+        display: none;
+      }
+    </style> -->
+  </head>
+  <body>
+    <div class="pricing-container">
+      <div class="card">
+        <div class="card-top">
+          <h2 class="plan-name">Premium</h2>
+          <p class="description">
+            Scale fast with dedicated onboarding, unlimited contacts, and
+            priority support; built for teams.
+          </p>
+
+          <div class="price-box">
+            <p class="save-tag">Save 15% on 10,000+ contacts</p>
+            <div class="price-row">
+              <span class="currency">$</span>
+              <span class="amount">395.25</span>
+              <span class="period">/mo for 12 months</span>
+            </div>
+            <p class="subtext">
+              <span>Then, starts at </span
+              ><span class="old-price">$465/month</span><sup>†</sup>
+            </p>
+          </div>
+
+          <a href="#" class="demo-link">Request a demo</a>
+        </div>
+
+        <div class="card-bottom">
+          <button class="buy-now-btn">Buy Now</button>
+          <p class="legal">
+            <sup>†</sup>See <a href="#">Offer Terms</a>.
+            <a href="#">Overages</a> apply if contact or email send limit is
+            exceeded. <a href="#">Learn More</a>.
+          </p>
+        </div>
+      </div>
+
+      <div class="card featured">
+        <div class="badge">Best value</div>
+        <div class="card-top">
+          <h2 class="plan-name">Standard</h2>
+          <p class="description">
+            Sell even more with personalization, optimization tools, and
+            enhanced automations.
+          </p>
+
+          <div class="price-box">
+            <p class="save-tag">Save 15% on 10,000+ contacts</p>
+            <div class="price-row">
+              <span class="currency">$</span>
+              <span class="amount">195.50</span>
+              <span class="period">/mo for 12 months</span>
+            </div>
+            <p class="subtext">
+              <span>Then, starts at </span
+              ><span class="old-price">$230/month</span><sup>†</sup>
+            </p>
+          </div>
+          <div class="spacer"></div>
+        </div>
+
+        <div class="card-bottom">
+          <button class="buy-now-btn">Buy Now</button>
+          <p class="legal">
+            <sup>†</sup>See <a href="#">Offer Terms</a>.
+            <a href="#">Overages</a> apply if contact or email send limit is
+            exceeded. <a href="#">Learn More</a>.
+          </p>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-top">
+          <h2 class="plan-name">Essentials</h2>
+          <p class="description">
+            Send the right content at the right time with testing and scheduling
+            features.
+          </p>
+
+          <div class="price-box">
+            <p class="save-tag">Save 15% on 10,000+ contacts</p>
+            <div class="price-row">
+              <span class="currency">$</span>
+              <span class="amount">153</span>
+              <span class="period">/mo for 12 months</span>
+            </div>
+            <p class="subtext">
+              <span>Then, starts at </span
+              ><span class="old-price">$180/month</span><sup>†</sup>
+            </p>
+          </div>
+          <div class="spacer"></div>
+        </div>
+
+        <div class="card-bottom">
+          <button class="buy-now-btn">Buy Now</button>
+          <p class="legal">
+            <sup>†</sup>See <a href="#">Offer Terms</a>.
+            <a href="#">Overages</a> apply if contact or email send limit is
+            exceeded. <a href="#">Learn More</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

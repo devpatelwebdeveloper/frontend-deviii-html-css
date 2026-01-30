@@ -1,0 +1,148 @@
+:root {
+  --primary-yellow: #ffe01b;
+  --border-color: #d1d1d1;
+  --text-main: #241c15;
+}
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  padding: 60px 20px;
+  background: #fff;
+}
+
+.pricing-container {
+  display: flex;
+  max-width: 1100px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.card {
+  flex: 1;
+  padding: 48px 32px 32px 32px; /* Increased horizontal padding */
+  border-left: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.card:last-child {
+  border-right: 1px solid var(--border-color);
+}
+
+.featured {
+  border: 1px solid var(--text-main);
+  z-index: 1;
+}
+
+.badge {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #d4e9f7;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+  text-decoration: underline dotted;
+}
+
+.plan-name {
+  font-family: serif; /* Mimics the brand font */
+  font-size: 34px;
+  margin-top: 0;
+  margin-bottom: 24px;
+}
+
+.description {
+  font-size: 16px;
+  line-height: 1.4;
+  margin-bottom: 32px;
+  min-height: 80px; /* Forces alignment */
+}
+
+/* The Price Box Styling */
+.price-box {
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 24px 20px;
+  margin-bottom: 32px;
+}
+
+.save-tag {
+  font-weight: 600;
+  margin: 0 0 12px 0;
+  font-size: 15px;
+}
+
+.price-row {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 8px;
+}
+
+.currency {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 4px;
+}
+.amount {
+  font-size: 56px;
+  font-weight: bold;
+  line-height: 0.9;
+}
+.period {
+  font-size: 15px;
+  align-self: center;
+  margin-left: 6px;
+}
+
+.subtext {
+  font-size: 14px;
+  color: #727272;
+  margin: 0;
+}
+
+.old-price {
+  font-weight: bold;
+  color: #727272;
+}
+
+/* Links and Buttons */
+.demo-link {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--text-main);
+  margin-bottom: 32px;
+}
+
+.spacer {
+  height: 48px;
+} /* Same height as demo-link section */
+
+.buy-now-btn {
+  background: var(--primary-yellow);
+  border: 1px solid var(--text-main);
+  border-radius: 30px;
+  width: 100%;
+  padding: 18px;
+  font-size: 17px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.legal {
+  font-size: 12px;
+  margin-top: 20px;
+  line-height: 1.5;
+  color: #241c15;
+}
+
+.legal a {
+  color: inherit;
+  text-decoration: underline;
+}
