@@ -45,7 +45,8 @@ const urls = [
 ```
 
 **Reference Material:**
-[react-image-carousel-solution.webm](https://github.com/user-attachments/assets/9f79c262-f4ac-45b9-9bab-369b52ab4ced)
+[react-image-carousel-solution.webm](https://github.com/user-attachments/assets/825c9df4-c4ff-4bba-aacc-b721879fed18)
+
 
 ## Task 3A: CSS Variables & Component Design
 
