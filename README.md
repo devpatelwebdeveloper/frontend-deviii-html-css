@@ -45,14 +45,16 @@ const urls = [
 ```
 
 **Reference Material:**
-[react-image-carousel-solution.webm](https://github.com/user-attachments/assets/825c9df4-c4ff-4bba-aacc-b721879fed18)
 
+[react-image-carousel-solution.webm](https://github.com/user-attachments/assets/825c9df4-c4ff-4bba-aacc-b721879fed18)
 
 ## Task 3A: CSS Variables & Component Design
 
 Create a Button component that matches the design in the image below.
 
 - **Requirement:** You must define and use semantic CSS Variables (Custom Properties) for your color palette.
+
+[Button](./button.png)
 
 # Bonus
 
