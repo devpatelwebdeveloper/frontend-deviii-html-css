@@ -5,7 +5,7 @@
 - Without touching the `styles.css`. Add a code in `<style></style>` and Reorder the the content in `price-box`
 - DONOT Reorder the html tags.
 
-![Alt text](./change_css_override.png)
+![Change override](./change_css_override.png)
 
 ## Task 2: Two Sum Algorithm
 
@@ -54,7 +54,7 @@ Create a Button component that matches the design in the image below.
 
 - **Requirement:** You must define and use semantic CSS Variables (Custom Properties) for your color palette.
 
-[Button](./button.png)
+![Button](./button.png)
 
 # Bonus
 
