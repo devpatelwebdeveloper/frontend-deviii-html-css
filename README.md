@@ -5,6 +5,8 @@
 - Without touching the `styles.css`. Add a code in `<style></style>` and Reorder the the content in `price-box`
 - DONOT Reorder the html tags.
 
+![Alt text](./change_css_override.png)
+
 ## Task 2: Two Sum Algorithm
 
 Given an array of integers `nums` and an integer `target`, write a function that returns the two numbers such that they add up to the target.
