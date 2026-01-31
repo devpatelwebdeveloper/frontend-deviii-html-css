@@ -3,7 +3,8 @@
 
 ## Task1: Override using CSS
 
-- Without touching the `styles.css`. Add a code in `<style></style>` and Reorder the the content in `price-box`
+- Without modifying the `styles.css`.
+- Add a code in `<style></style>` within `index.html` to Reorder the the content in `price-box` to match below image
 - DONOT Modify any other HTML code.
 
 ![Change override](./change_css_override.png)
@@ -65,6 +66,10 @@ Create a Button component that matches the design in the image below.
 Build a Card component based on the design provided.
 
 [Figma Design](https://www.figma.com/board/YmNtQbluH9qyKrKEgBW12n/Tiles-Example?node-id=0-1&t=lZvhMIyz8dtqNo5a-1)
+
+- ![icon-free-mobile-apps] (https://quickbooks.intuit.com/oidam/intuit/sbseg/en_us/quickbooks-online/web/icons/icon-free-mobile-apps.png)
+- ![icon-support] (https://quickbooks.intuit.com/oidam/intuit/sbseg/en_us/quickbooks-online/web/icons/icon-support.png)
+- ![icon-app-integrations] (https://quickbooks.intuit.com/oidam/intuit/sbseg/en_us/quickbooks-online/web/icons/icon-app-integrations.png)
 
 **Requirements:**
 
