@@ -67,9 +67,9 @@ Build a Card component based on the design provided.
 
 [Figma Design](https://www.figma.com/board/YmNtQbluH9qyKrKEgBW12n/Tiles-Example?node-id=0-1&t=lZvhMIyz8dtqNo5a-1)
 
-- ![icon-free-mobile-apps] (https://quickbooks.intuit.com/oidam/intuit/sbseg/en_us/quickbooks-online/web/icons/icon-free-mobile-apps.png)
-- ![icon-support] (https://quickbooks.intuit.com/oidam/intuit/sbseg/en_us/quickbooks-online/web/icons/icon-support.png)
-- ![icon-app-integrations] (https://quickbooks.intuit.com/oidam/intuit/sbseg/en_us/quickbooks-online/web/icons/icon-app-integrations.png)
+- ![icon-free-mobile-apps](https://quickbooks.intuit.com/oidam/intuit/sbseg/en_us/quickbooks-online/web/icons/icon-free-mobile-apps.png)
+- ![icon-support](https://quickbooks.intuit.com/oidam/intuit/sbseg/en_us/quickbooks-online/web/icons/icon-support.png)
+- ![icon-app-integrations](https://quickbooks.intuit.com/oidam/intuit/sbseg/en_us/quickbooks-online/web/icons/icon-app-integrations.png)
 
 **Requirements:**
 
