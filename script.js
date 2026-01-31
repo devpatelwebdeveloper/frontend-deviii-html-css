@@ -1,5 +1,8 @@
 const sum = (arr, target) => {
-  console.log("new_arr");
+  const answer = [];
+  //Your Code
+
+  console.log(answer);
 };
 
 sum([7, 5, 3, 8, 10, 1, 9], 6);
