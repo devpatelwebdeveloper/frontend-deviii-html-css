@@ -1,5 +1,5 @@
-[Task1 and Task 2 Sandbox Clone](https://codesandbox.io/p/sandbox/github/devpatelwebdeveloper/frontend-deviii-html-css)
-[Task3,3A and Task 4 Sandbox Clone](https://codesandbox.io/p/sandbox/github/devpatelwebdeveloper/frontend-deviii-react)
+- [Task1 and Task 2 Sandbox Clone](https://codesandbox.io/p/sandbox/github/devpatelwebdeveloper/frontend-deviii-html-css)
+- [Task3,3A and Task 4 Sandbox Clone](https://codesandbox.io/p/sandbox/github/devpatelwebdeveloper/frontend-deviii-react)
 
 ## Task1: Override using CSS
 
