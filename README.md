@@ -1,9 +1,10 @@
-[Sandbox Clone](https://codesandbox.io/p/sandbox/github/devpatelwebdeveloper/frontend-deviii-html-css)
+[Task1 and Task 2 Sandbox Clone](https://codesandbox.io/p/sandbox/github/devpatelwebdeveloper/frontend-deviii-html-css)
+[Task3,3A and Task 4 Sandbox Clone](https://codesandbox.io/p/sandbox/github/devpatelwebdeveloper/frontend-deviii-react)
 
 ## Task1: Override using CSS
 
 - Without touching the `styles.css`. Add a code in `<style></style>` and Reorder the the content in `price-box`
-- DONOT Reorder the html tags.
+- DONOT Modify any other HTML code.
 
 ![Change override](./change_css_override.png)
 
@@ -34,10 +35,11 @@ Output: [13, 17] or [17, 13]
 
 ## Task 3: Build an Image Carousel Component
 
-Create a functional image carousel component. You may use the following image URLs for data:
+- Create a functional image carousel component.
+- You may use the following image URLs for data:
 
 ```
-const urls = [
+const imageUrls = [
 "https://images.pexels.com/photos/269255/pexels-photo-269255.jpeg",
 "https://images.pexels.com/photos/355235/pexels-photo-355235.jpeg",
 "https://images.pexels.com/photos/416179/pexels-photo-416179.jpeg"
